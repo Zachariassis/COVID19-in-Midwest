@@ -3,7 +3,9 @@ in the upper midwest
 
 States: Missouri, Illinois, Michigan, Ohio, Indiana
 
-Databases: Johns Hopkins COVID analysis - 9-11-20 Data
+Databases Used
+        
+        : Johns Hopkins COVID analysis - 9-11-20 Data
 https://github.com/CSSEGISandData/COVID-19
 
          : Census data api - 2018 acs5
@@ -25,10 +27,11 @@ Steps:
         -regression lines
         -bar charts per state
 
+
 Outcomes(step 5):
 1) deaths vs mean income
 2) population vs number contracted
-3) % active cases vs mean income
+3) % active cases (active/total OR active/pop) vs mean income
 4) compare means for each state - bar chart (each bar per state)
 
 
