@@ -1,0 +1,40 @@
+Goal: Find relationship between Covid rate and 5 most populous counties
+in the upper midwest
+
+States: Missouri, Illinois, Michigan, Ohio, Indiana
+
+Databases: Johns Hopkins COVID analysis - 9-11-20 Data
+https://github.com/CSSEGISandData/COVID-19
+
+         : Census data api - 2018 acs5
+https://www.census.gov/data/developers/data-sets/acs-5year.html
+https://api.census.gov/data/2018/acs/acs5/subject/groups.html
+
+
+Census data - pulling populaions and income from states,
+                -pulling 5 most populous counties for analysis
+
+Covid data - pulling all (for now)
+
+Steps:
+1) Gather Census population data
+2) Use most populous counties to find Covid data
+3) Combine and clean all data
+4) Calculate and show heat maps
+5) Calculate and show any additional graphs of interesting relationships
+        -regression lines
+        -
+
+Outcomes:
+1) deaths vs mean income
+2) population vs number contracted
+3) 
+
+
+
+Nice to Haves:
+1) Time series data for covid - pulling different time points
+        - first case date - speed of contraction/spread
+2) area of each county (sq mi)
+3) compare against less populous groups
+4) use more counties
