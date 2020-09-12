@@ -23,12 +23,13 @@ Steps:
 4) Calculate and show heat maps
 5) Calculate and show any additional graphs of interesting relationships
         -regression lines
-        -
+        -bar charts per state
 
-Outcomes:
+Outcomes(step 5):
 1) deaths vs mean income
 2) population vs number contracted
-3) 
+3) % active cases vs mean income
+4) compare means for each state - bar chart (each bar per state)
 
 
 
