@@ -12,6 +12,10 @@ https://github.com/CSSEGISandData/COVID-19
 https://www.census.gov/data/developers/data-sets/acs-5year.html
 https://api.census.gov/data/2018/acs/acs5/subject/groups.html
 
+Total Population: S0101_C01_001E
+Mean Income: S1902_C01_001E
+
+
 
 Census data - pulling populaions and income from states,
                 -pulling 5 most populous counties for analysis
