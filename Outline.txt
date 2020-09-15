@@ -12,13 +12,13 @@ https://github.com/CSSEGISandData/COVID-19
 https://www.census.gov/data/developers/data-sets/acs-5year.html
 https://api.census.gov/data/2018/acs/acs5/subject/groups.html
 
-Total Population: S0101_C01_001E
-Mean Income: S1902_C01_001E
+Total Population: B01003_001E
+Per Capita Income: B19301_001E
 
 
 
 Census data - pulling populaions and income from states,
-                -pulling 5 most populous counties for analysis
+                -pulling 10 most populous counties for analysis
 
 Covid data - pulling all (for now)
 
@@ -26,7 +26,7 @@ Steps:
 1) Gather Census population data
 2) Use most populous counties to find Covid data
 3) Combine and clean all data
-4) Calculate and show heat maps
+4) Calculate and show geomaps
 5) Calculate and show any additional graphs of interesting relationships
         -regression lines
         -bar charts per state
