@@ -38,6 +38,22 @@ Outcomes(step 5):
 3) % active cases (active/total OR active/pop) vs mean income
 4) compare means for each state - bar chart (each bar per state)
 
+Choropleth results:
+Confirmed
+Incidence Rates
+Case-Fatality Ratio
+
+scatterplots of top 5 per state:
+Confirmed vs population
+deaths vs mean income
+
+Look into masks
+
+bar chart:
+means of cases for each state (all data)
+
+
+
 
 
 Nice to Haves:
