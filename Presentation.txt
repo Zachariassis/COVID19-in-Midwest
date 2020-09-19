@@ -1,0 +1,36 @@
+Slide 1: Introduction
+    -Covid and why we picked it
+    -Names and Introduction
+
+Slide 2: Topic and Hypotheses
+    Topic 1: Population and Covid Cases
+    Topic 2: Covid deaths and income
+    Topic 3: Mask wearing habits and Infection
+
+
+Slide 3: Population and Covid 
+    -Cholopleth - population 
+
+Slide 4: Population and Covid
+    -Cholopleth - Incidence rate
+
+Slide 5: Population and Covid
+    -Rates vs Population - Scatterplot
+
+Slide 6: Covid deaths and income
+    -Cholopleth - deaths OR mortality rate
+
+Slide 7: Covid daths and income
+    -Scatterplot of ????
+
+Slide 8: Mask wearking habits
+    -Cholopleth?
+
+Slide 9: Mask wearing habits
+    -Bar chart average usage per State 
+    OR
+    -Scatterplot counties by mask habits
+
+Slide 10: Outcomes
+
+Slide 11: Questions
