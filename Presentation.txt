@@ -1,0 +1,43 @@
+Slide 1: Introduction
+    -Covid and why we picked it
+    -Names and Introduction
+
+Slide 2: Topic and Hypotheses
+    Topic 1: Population and Covid Cases
+    Topic 2: Covid deaths and income
+    Topic 3: Mask wearing habits and Infection
+
+
+Slide 3: Data we collected
+    -Johns Hopkins Covid Repository (csv)
+    -Census data (2018 acs5)
+    -NYT Mask use survey
+
+Slide 4: Code examples of dataframe/cleaning
+
+Slide 5: Population and Covid 
+    -Cholopleth - population 
+
+Slide 6: Population and Covid
+    -Cholopleth - Incidence rate
+
+Slide 7: Population and Covid
+    -Rates vs Population - Scatterplot
+
+Slide 8: Covid deaths and income
+    -Cholopleth - deaths OR mortality rate
+
+Slide 9: Covid daths and income
+    -Scatterplot of mortality vs income
+
+Slide 10: Mask wearking habits
+    -Cholopleth?
+
+Slide 11: Mask wearing habits
+    -Bar chart average usage per State 
+    AND/OR
+    -Scatterplot counties by mask habits
+
+Slide 12: Outcomes and Hypotheses results
+
+Slide 13: Questions
