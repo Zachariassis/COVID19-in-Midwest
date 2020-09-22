@@ -61,3 +61,5 @@ requests
 census
 
 plotly.express
+
+statsmodels
